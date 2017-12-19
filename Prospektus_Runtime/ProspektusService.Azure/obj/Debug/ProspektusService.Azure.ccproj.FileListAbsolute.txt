@@ -1,0 +1,2 @@
+C:\Users\iesarikaya\source\repos\Prospektus_Runtime\ProspektusService.Azure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\iesarikaya\source\repos\Prospektus_Runtime\ProspektusService.Azure\bin\Debug\ServiceDefinition.csdef
